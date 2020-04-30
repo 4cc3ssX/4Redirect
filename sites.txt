@@ -1,0 +1,2 @@
+http://localhost/bwapp/unvalidated_redir_fwd_1.php?url=!!
+http://localhost/bwapp/unvalidated_redir_fwd_2.php?ReturnUrl=!!
