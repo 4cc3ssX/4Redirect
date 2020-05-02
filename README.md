@@ -5,9 +5,9 @@ This is the open redirect scanner using Python. If any bug or error please conta
 # Usage
 default files
 
-payloads.txt for payloads list
+**payloads.txt** : for payloads list
 
-sites.txt for targets website list
+**sites.txt** : for targets website list
 
 ```
 root@kali:~# python3 4redirect.py
