@@ -7,7 +7,7 @@ y = '\033[033m'
 b = '\033[036m'
 n = '\033[00m'
 cookies = {} 
-headers = {}
+headers = {"User-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"}
 vuln_vitims = {}
 def main():
     path = input(f"[ {y}TARGET{n} ] Websites list file path. default[sites.txt]: ")
